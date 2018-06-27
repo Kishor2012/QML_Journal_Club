@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to the Quantum Machine learning Journal club @CQT
 
-You can use the [editor on GitHub](https://github.com/Kishor2012/QML-Journal-Club/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Aim of the journal club
+Machine learning seems to be a hot topic. And here at CQT, we have a lot of experts in quantum information processing. Here we are interested in the relation of the two: How machine learning could be useful for quantum information processing? How quantum computer/quantum algorithms could enhance machine learning? 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Scope
+- Quantum algorithms, especially those involved in machine learning
+- Classical machine learning
+- Experimental considerations? 
 
-### Markdown
+### Format
+- (Bi-)Weekly paper presentation by the participants, they can either choose from the list or propose their own
+- Tutorials by experts
+- coding exercise? Maybe
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kishor2012/QML-Journal-Club/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Minutes for weekly meetings
+### Week 1:
