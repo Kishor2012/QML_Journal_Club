@@ -15,3 +15,4 @@ Machine learning seems to be a hot topic. And here at CQT, we have a lot of expe
 
 ## Minutes for weekly meetings
 ### Week 1:
+
