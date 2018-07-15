@@ -11,7 +11,7 @@ Machine learning seems to be a hot topic. And here at CQT, we have a lot of expe
 ### Format
 - (Bi-)Weekly paper presentation by the participants, they can either choose from the list or propose their own
 - Tutorials by experts
-- coding exercise? Maybe
+- Coding exercises? Maybe
 
 ## Minutes for weekly meetings
 Refer to Weekly-Notes Folder 
